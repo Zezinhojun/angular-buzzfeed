@@ -1,0 +1,28 @@
+.quizz_questions {
+  border: 1px solid #4224d9;
+  background-color: #644ed2;
+  height: 200px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-option {
+  background-color: transparent;
+  border: 1px solid #18ab29;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 0px 1px 0px #2f6627;
+}
+
+.btn-option:hover {
+  background-color: #5cbf2a;
+}
+
+.btn-option:active {
+  position: relative;
+  top: 1px;
+}
+
+.quizz_results {
+  height: 350px;
+  background-color: #1f0539;
+}
